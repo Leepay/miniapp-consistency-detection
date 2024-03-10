@@ -1,1 +1,3 @@
-dataset
+dataset/*
+benchmark/*
+node_modules/*

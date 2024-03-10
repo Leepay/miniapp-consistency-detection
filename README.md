@@ -37,6 +37,10 @@ This repository contains the MiniDetector system, designed for detecting consist
 ## Environment
 
 For code analysis, we utilized the Node.js development environment, version 12.19.0. Abstract syntax trees are parsed using the esprima library. 
+环境安装：
+```bash
+npm install escodegen, htmlparser2, nodejieba
+```
 For privacy policy analysis, we employed the Python development environment, version 3.6.13. 
 
 For further inquiries or assistance, feel free to contact us. 

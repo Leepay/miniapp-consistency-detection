@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "escodegen": "^2.1.0",
+    "htmlparser2": "^9.0.0",
+    "nodejieba": "^2.6.0"
+  }
+}
